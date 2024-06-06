@@ -1,10 +1,26 @@
+### Deskripsi Aplikasi untuk Playstore
+
+**Teman Obatta - Aplikasi Apoteker Terpercaya**
+
+Teman Obatta adalah aplikasi yang memudahkan Anda membuat janji konsultasi dengan apoteker profesional. Melalui aplikasi ini, Anda dapat terhubung langsung dengan apoteker untuk mendapatkan saran medis dan informasi obat yang Anda butuhkan. Aplikasi ini juga terintegrasi dengan Firestore untuk penyimpanan data yang aman dan dapat diandalkan serta memungkinkan Anda untuk mengarahkan komunikasi lebih lanjut melalui WhatsApp.
+
+**Fitur Utama:**
+
+- Buat janji konsultasi dengan apoteker profesional dengan mudah.
+- Simpan riwayat konsultasi dan resep dengan aman di Firestore.
+- Terhubung langsung dengan apoteker melalui WhatsApp.
+- Antarmuka pengguna yang sederhana dan mudah digunakan.
+
+Unduh Teman Obatta sekarang dan nikmati kemudahan konsultasi obat di ujung jari Anda!
+
+---
 
 ## Privacy Policy
 
 ### Introduction
 
-Our privacy policy will help you understand what information we collect at _Coversity_, how _Coversity_ uses it, and what choices you have.
-_Coversity_ built the _Teman Obatta'_ app as a free app. This SERVICE is provided by _Coversity_ at no cost and is intended for use as is.
+Our privacy policy will help you understand what information we collect at _NPE Digital_, how _NPE Digital_ uses it, and what choices you have.
+_NPE Digital_ built the _Teman Obatta_ app as a free app. This SERVICE is provided by _NPE Digital_ at no cost and is intended for use as is.
 If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise defined in this Privacy Policy.
 
@@ -54,4 +70,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
-Email: *toku404.san@gmail.com*
+Email: *npedigital@gmail.com*
