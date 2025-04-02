@@ -82,5 +82,5 @@ If you have any questions about this Privacy Policy, you can contact us at:
 
 **Company Name**: PT. HEXA TIX DIGITAL
 **Email**: [admin@kartjis.id](mailto:admin@kartjis.id)  
-**Website**: [https://www.kartjis.id](https://www.kartjis.id)  
+**Website**: [https://kartjis.id](https://kartjis.id/)  
 **Address**: BTN Hartaco Indah Blok III L/10 B, Rukun Tetangga 007, Rukun Warga 006, Kelurahan/Desa Parang Tambung, Kecamatan Tamalate, Kota Makassar, Provinsi Sulawesi Selatan.
