@@ -156,4 +156,4 @@ We encourage you to review this Privacy Policy periodically to stay informed abo
 If you have any questions, concerns, or suggestions regarding this Privacy Policy or the handling of your Personal Information, please contact us:
 
 **Kalora**
-**Email:** [fiymtechnology@gmail.com](mailto:fiymtechnology@gmail.com)
+**Email:** [fiymindonesia@gmail.com](mailto:fiymindonesia@gmail.com)
