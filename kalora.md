@@ -12,6 +12,22 @@ By using the Kalora Service, you agree to the collection and use of information 
 
 We collect and use your Personal Information only for the purposes described in this Privacy Policy, including providing, maintaining, improving, and securing the Service.
 
+## Not a Government Application
+
+Kalora is an independent application. Kalora does **not** represent, is not
+affiliated with, and is not endorsed by any government entity, including the
+Ministry of Environment / Environmental Control Agency of the Republic of
+Indonesia or any local government. Waste pickup schedules and services provided
+through Kalora are operated by Kalora, not by any government authority.
+
+For official government information on waste management in Indonesia, please
+refer to:
+
+* Ministry of Environment of the Republic of Indonesia: https://kemenlh.go.id
+* National Waste Management Information System (SIPSN): https://sipsn.kemenlh.go.id/sipsn/
+* Law No. 18 of 2008 on Waste Management: https://peraturan.bpk.go.id/Details/39067/uu-no-18-tahun-2008
+
+
 ## Information Collection and Use
 
 To provide and improve our Service, we may collect certain information that can identify or be associated with you, including but not limited to:
